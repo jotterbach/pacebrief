@@ -1,0 +1,1 @@
+import{computeBikePlan as _0x1d23ed}from'./page-plan.mjs';import{handlePlanMessage as _0x551d7e}from'../shared/plan-protocol.mjs';self['onmessage']=_0x49d56d=>self['postMessage'](_0x551d7e(_0x49d56d['data'],_0x1d23ed));
