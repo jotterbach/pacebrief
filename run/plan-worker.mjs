@@ -1,0 +1,1 @@
+import{computeRunPlan as _0x5c0ce0}from'./page-plan.mjs';import{handlePlanMessage as _0x219079}from'../shared/plan-protocol.mjs';self['onmessage']=_0x1a2d15=>self['postMessage'](_0x219079(_0x1a2d15['data'],_0x5c0ce0));
